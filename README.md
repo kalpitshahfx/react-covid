@@ -3,4 +3,4 @@
 API used: https://covid19.mathdro.id/api
 
 Created COVID-19 Tracker using React, Charts.JS and Material UI. 
-Got understaing of react workflow and different hooks used in this project.
+Got understanding of react workflow and different hooks.
